@@ -1,25 +1,25 @@
+import productModel  from '../models/products.model.js';
 
-const products = [
-  {
-    id: 18,
-    title: "MBJ Women's Solid Short Sleeve Boat Neck V ",
-    price: 9.85,
-    category: "women's clothing"
-  },
-  { 
-    id: 188,
-    title: "MBJ Women's Solid Short Sleeve Boat Neck V ",
-    price: 9.85,
-    category: "women's clothing"
-  },
-]
+
+
 const productService = {
-  getAllProducts
+  getAllProducts, 
+  getProductById,
+  saveProduct ,deleteProduct 
 }
 
 export function getAllProducts (){
- return products;
+ return productModel.getAllProducts();
 };
 
+export function getProductById (id){
+ return productModel.getProductById(id);
+};
+export function saveProduct(name, price){
+ return productModel.saveProduct(name, price);
+};
+export function deleteProduct(id){
+ return productModel.deleteProduct(id);
+};
 
 export default productService;
