@@ -7,7 +7,6 @@ A simple RESTful API built with Node.js and Express.js for managing products. Th
 - **CRUD Operations**: Create, Read, Update, and Delete products
 - **Clean Architecture**: Organized with controllers, services, and models
 - **JSON File Storage**: Simple file-based data persistence
-- **CORS Support**: Cross-origin resource sharing enabled
 - **ES6 Modules**: Modern JavaScript module system
 - **Express Router**: Modular route handling
 
