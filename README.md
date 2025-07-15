@@ -34,7 +34,7 @@ backend-nodejs-express/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone --single-branch --branch just-only-json https://github.com/carmendiazit/backend-nodejs-express.git
    cd backend-nodejs-express
    ```
 
