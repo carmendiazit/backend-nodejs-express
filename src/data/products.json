@@ -1,69 +1,5 @@
 [
   {
-    "id": 7,
-    "price": "15.5"
-  },
-  {
-    "id": 10,
-    "name": "$name",
-    "price": "$price"
-  },
-  {
-    "id": 11,
-    "name": "$name",
-    "price": "$price"
-  },
-  {
-    "id": 13,
-    "name": "$name",
-    "price": "$price"
-  },
-  {
-    "id": 14,
-    "name": "$name",
-    "price": "$price"
-  },
-  {
-    "id": 15,
-    "name": "$name",
-    "price": "$price"
-  },
-  {
-    "id": 16,
-    "name": "name",
-    "price": "price"
-  },
-  {
-    "id": 17
-  },
-  {
-    "id": 18
-  },
-  {
-    "id": 19
-  },
-  {
-    "id": 20
-  },
-  {
-    "id": 21
-  },
-  {
-    "id": 22
-  },
-  {
-    "id": 23
-  },
-  {
-    "id": 24
-  },
-  {
-    "id": 25
-  },
-  {
-    "id": 26
-  },
-  {
     "id": 21,
     "name": "matambre   ",
     "price": "con fritas"
@@ -77,5 +13,20 @@
     "id": 20,
     "name": "matambre   ",
     "price": "con fritas"
+  },
+  {
+    "id": 3,
+    "name": "Pizza matambre",
+    "price": "12.50"
+  },
+  {
+    "id": 4,
+    "name": "Pizza salame",
+    "price": "12.50"
+  },
+  {
+    "id": 5,
+    "name": "Pizza salame",
+    "price": "12.50"
   }
 ]
