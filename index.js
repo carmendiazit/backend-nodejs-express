@@ -1,14 +1,14 @@
 
-//este script viene de un proyecto clase11
+
 
 import express from 'express';
-import cors from 'cors';
+
 
 import productsRouter from './src/routers/products.router.js';
 
 const app = express();
 
-app.use(cors());
+
 
 app.use('/api',productsRouter);
 
